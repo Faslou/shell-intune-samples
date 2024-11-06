@@ -2,7 +2,7 @@
 
 These scripts provide examples of how to use [Intune Shell Scripting](https://docs.microsoft.com/en-us/mem/intune/apps/macos-shell-scripts) to set the Mac Desktop Wallpaper
 
-![Desktop Image](https://github.com/microsoft/shell-intune-samples/raw/master/img/desktop.png)
+![Desktop Image](https://vsmartzone.blob.core.windows.net/vsmartzonecontainer/GBS_UK_Wallpaper_Desktop_EP_1909.jpg)
 
 ## downloadWallpaper.sh
 
